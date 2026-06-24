@@ -30,7 +30,7 @@ const PROJECTS = [
     name: "League of Legends Analytics",
     lang: "Python",
     desc: "Analyzed ranked match data from NA and Korea to compare player skill distributions. Scraped and normalized large-scale match data stored as Parquet, queried with DuckDB. Shared findings to the Riot Games Developer Discord.",
-    href: "https://github.com/jqueja",
+    href: "/lol-analysis-report.pdf",
   },
   {
     name: "MiniC Compiler",
