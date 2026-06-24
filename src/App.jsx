@@ -357,8 +357,8 @@ export default function App() {
               <p>
                 I'm a <strong>software engineer</strong> building AI agents and
                 data pipelines at Walmart Global Tech. I graduated from{" "}
-                <strong>Cal Poly SLO</strong> with a BS in Computer Science
-                (GPA 3.40, Abernethy Scholar).
+                <strong>Cal Poly SLO</strong> with a BS in Computer Science (GPA
+                3.40, Abernethy Scholar).
               </p>
               <p>
                 I'm a first-generation Filipino-American from the Central Valley
